@@ -1,10 +1,10 @@
-# Professional-Readme-Generator
+# E-Commerce-Back-End
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-A simple Readme gnerator to help you make professional README files.
+I made this project to be the back end of an E-commerce site. I made this to get more familiar with databases and to learn things like GET methods and Put Methods.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ A simple Readme gnerator to help you make professional README files.
 
 ## Installation
 
-Clone the repo to your local machine, run "npm install" to install the necessary dependecies, run node index.js to run the script to get the terminal prompts to write in.
+Clone the repo to your local machine.
 
 ## Usage
 
-Just run "node index.js" to get the prompts to fill out in your terminal.
+Run "npm install' to install the necessary dependencies and then run "node index.js" to run the code.
 
 ## License
 
@@ -29,14 +29,14 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contributing
 
-Don't contribute, it is a finished project
+Don't need to contribute.
 
 ## Tests
 
-You don't need to
+Test it by running the code.
 
 ## Questions
 
 For questions or support, please contact [undefined](https://github.com/undefined).
 
-Email: coming soon
+Email: Coming Soon.
